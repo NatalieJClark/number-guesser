@@ -1,7 +1,7 @@
 package number_guesser;
 
 public class NumberGuesser {
-    Integer secretNumber;
+    int secretNumber;
     public NumberGuesser(int secretNumber) {
         this.secretNumber = secretNumber;
     }
