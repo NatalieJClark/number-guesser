@@ -2,8 +2,8 @@
 
 ## Introduction
 
-- This is my Number Guesser Game project
-- It is for Makers SWE Specialism Module 1 - Learning Java & Its Tools
+- This is my Number Guesser Game project for Makers SWE Specialism Module 1 - Learning Java & Its Tools
+- It is a simple game where player one chooses a number and player two tries to guess it and receives helpful feedback ("higher" or "lower") from the program, to guide them in the right direction.
 
 ## Aims
 
@@ -11,4 +11,7 @@
 - [x] Learn to test-drive programs in Java with JUnit
 
 ## Setup
+```java
+// Run the tests by running NumberGuesserTest.java
+```
 
